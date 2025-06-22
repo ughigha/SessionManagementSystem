@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2jDO+jRnPFQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ughig\\SessionManagementSystem\\SessionManagementSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ughig\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ughig\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\ughig\\.nuget\\packages\\stackexchange.redis\\2.8.41\\stackexchange.redis.2.8.41.nupkg.sha512",
+    "C:\\Users\\ughig\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
